@@ -15,7 +15,6 @@ Fundi Finance Lotto Dapp
 ## Visuals
 To link to metamask
 
-HTML codes
 [Screenshot (2)](https://user-images.githubusercontent.com/93483047/140563637-e3060ff4-1eac-4105-9c6d-dc9cf43c54d5.png)
 
 
