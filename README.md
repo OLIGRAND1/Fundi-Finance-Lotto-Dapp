@@ -19,7 +19,7 @@ Fundi Finance Lotto Dapp
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/93483047/140565460-460b7bb3-9815-4b65-8019-248ec0f61095.png)
 
-## CSS styling
+### CSS styling
 ![Screenshot (5)](https://user-images.githubusercontent.com/93483047/140571063-77ff3f42-342b-47b5-bd9f-6536f514f0e9.png)
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/93483047/140570951-bc877de1-6b69-4458-97e0-62e5b4666d83.png)
