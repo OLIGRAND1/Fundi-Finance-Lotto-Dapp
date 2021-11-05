@@ -35,6 +35,11 @@ Fundi Finance Lotto Dapp
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/93483047/140567657-63849f31-30e5-4774-aeb7-79b1000a13c1.png)
 
+## Usage
+This landing page is intended to host lottery application and ticket sales by purchase of $CRA tokens by Fundi Finance. This webpage is still in development. Entries for this lottery will be made by players ($CRA token hodlers) who will login to their MetaMAsk Wallets and transfer token to specified wallet address provided on Fundi Finance Global Community TG Group
+
+![Screenshot (10)](https://user-images.githubusercontent.com/93483047/140571778-df8514f5-31aa-467c-a711-600bf0776c15.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
