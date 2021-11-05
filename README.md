@@ -13,19 +13,11 @@ Fundi Finance Lotto Dapp
 ```
 
 ## Visuals
-
-```python
 To link to metamask
 
-# HTML codes!
+HTML codes
 [Screenshot (2)](https://user-images.githubusercontent.com/93483047/140563637-e3060ff4-1eac-4105-9c6d-dc9cf43c54d5.png)
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
