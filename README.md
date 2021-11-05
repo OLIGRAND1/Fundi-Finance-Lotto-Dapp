@@ -19,6 +19,8 @@ Fundi Finance Lotto Dapp
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/93483047/140565460-460b7bb3-9815-4b65-8019-248ec0f61095.png)
 
+## CSS styling
+
 ### JavaScript code with MetaMask API
 ![Screenshot (4)](https://user-images.githubusercontent.com/93483047/140567566-1bb84d76-3f1a-4ff5-a0e9-4a9f1222283b.png)
 
