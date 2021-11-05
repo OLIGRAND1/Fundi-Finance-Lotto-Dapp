@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fundi Finance Lotto Dapp</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+    <div class="home">
+        <div class="nav">
+            <text style="font-family: roboto, sans-serif">Fundi Finance</text>
+            <div class="logo">
+                <img src="images/cropped-FF-logo-no-bg.png" width="100" />
+            </div>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="./about.html">About</a></li>
+                <li><a href="./services.html">Services</a></li>
+                <li><a href="./contact.html">Contact</a></li>
+            </ul>
+        </div>
+        </br>
+        </br>
+        <div class="flex w-screen h-screen justify-center items-center">
+            <div class="flex-col space-y2 justify center items-center">
+                <button id="loginButton" onclick="" class="rounded-md p-2 bg-purple-500 text-white">
+            Login with MetaMask
+          </button>
+                <p id="userwallet" class="text-lg text-gray-600 my-2"></p>
+            </div>
+            <script>
+                window.userWalletAddress = null;
+                const loginButton = document.getElementById("loginButton");
+                const userWallet = document.getElementById("userWallet");
+
+                function toggleButton() {
+                    if (!window.ethereum) {
+                        loginButton.innerText = "Connect to MetaMask";
+                        loginButton.classList.remove("bg-purple-500", "text-white");
+                        loginButton.classList.add("bg-gray-500", "text-gray-800");
+                        return false;
+                    }
+                    loginButton.addEventListener("click", () => {
+                        loginWithMetamask;
+                    });
+                }
+                async function loginWithMetamask() {
+                    const accounts = await window.ethereum
+                        .request({
+                            method: "eth_requestAccounts",
+                        })
+                        .catch(e);
+                    () => {
+                        console.error(e.message);
+                        return;
+                    };
+                    if (!accounts) {
+                        return;
+                    }
+                    window.userWalletAddress = account[0];
+                    userWallet.innerText = window.userWalletAddress;
+                }
+                window.addEventListener("DOMContentLoaded", () => {
+                    toggleButton();
+                });
+            </script>
+        </div>
+        <div class="text-container">
+            <div>
+                <h1>Fundi Finance</h1>
+                <h2>Lotto Dapp</h2>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

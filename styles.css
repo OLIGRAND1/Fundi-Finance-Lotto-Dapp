@@ -1,0 +1,69 @@
+@import url("https:fonts.googleapis.com.com/css?family=Roboto");
+.nav {
+  height: 50px;
+  background: transparent;
+}
+.nav div {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  padding: 15px;
+  font-size: 20px;
+  color: white;
+}
+.nav [class="logo"] {
+  margin: -12px auto 0 auto;
+}
+.nav text {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  padding: 15px;
+  font-size: 20px;
+  color: white;
+  margin: 48px auto 0 auto;
+}
+.nav ul {
+  position: absolute;
+  right: 5px;
+  font-family: "Roboto", sans-serif;
+}
+.nav ul li {
+  display: inline-block;
+}
+.nav ul li a {
+  padding: 5px;
+  color: white;
+}
+.home {
+  background: url("../images/BGimg.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.home .text-container {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+.home .text-container {
+  font-family: "Roboto", sans-serif;
+}
+.about {
+  background: url("../images/BGimg.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.about .about-content {
+  margin: 250px auto 0 auto;
+  width: 500px;
+}
+.about .about-content h1 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+.about .about-content p {
+  text-align: justify;
+  font-family: "Lato", sans-serif;
+}
