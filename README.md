@@ -17,8 +17,8 @@ Fundi Finance Lotto Dapp
 ```python
 To link to metamask
 
-# returns 'words'
-foobar.pluralize('word')
+# HTML codes
+![ScreenShot](screenshot2.jpg)
 
 # returns 'geese'
 foobar.pluralize('goose')
