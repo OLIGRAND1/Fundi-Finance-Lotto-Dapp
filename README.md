@@ -9,7 +9,7 @@ Fundi Finance Lotto Dapp brings 'Trust', 'Freedom' and 'Fairness' to build up fa
 Website has not been hosted [coming soon]()
 
 ```bash
-pip install foobar
+Fundi Finance Lotto Dapp
 ```
 
 ## Visuals
