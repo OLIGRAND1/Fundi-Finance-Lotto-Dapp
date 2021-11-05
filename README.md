@@ -18,7 +18,7 @@ Fundi Finance Lotto Dapp
 To link to metamask
 
 # HTML codes
-![screenshot](screenshot)(2).png
+![Screenshot](screenshot(2).png)
 
 # returns 'geese'
 foobar.pluralize('goose')
