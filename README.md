@@ -20,6 +20,15 @@ Fundi Finance Lotto Dapp
 ![Screenshot (3)](https://user-images.githubusercontent.com/93483047/140565460-460b7bb3-9815-4b65-8019-248ec0f61095.png)
 
 ## CSS styling
+![Screenshot (5)](https://user-images.githubusercontent.com/93483047/140571063-77ff3f42-342b-47b5-bd9f-6536f514f0e9.png)
+
+![Screenshot (6)](https://user-images.githubusercontent.com/93483047/140570951-bc877de1-6b69-4458-97e0-62e5b4666d83.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/93483047/140570957-682f35e4-6da0-4922-9854-fc7dc9c7ebcb.png)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/93483047/140570971-bc3da695-8278-4dd9-b7a0-ff41e913f3c4.png)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/93483047/140570985-c2e96f22-eb27-4fe1-88bc-20fc4e146550.png)
 
 ### JavaScript code with MetaMask API
 ![Screenshot (4)](https://user-images.githubusercontent.com/93483047/140567566-1bb84d76-3f1a-4ff5-a0e9-4a9f1222283b.png)
